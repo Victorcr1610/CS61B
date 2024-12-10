@@ -1,1 +1,1 @@
-Gitlet is a project centered around creating a git control system for local use. Written in Java, it lays the fundamental ideas behind git control systems like Github. 
+Gitlet is a project centered around creating a git control system for local use. Written in Java, it lays the fundamental ideas behind git control systems like Github. It is not completely finished but it highlights the key functions that are seen in git control systems like GitHub. 
